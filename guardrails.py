@@ -28,7 +28,7 @@ PROMPT_INJECTION_PATTERNS = [
     "ignore prior instructions",
     "ignore all prior instructions",
     "forget previous instructions",
-    "forget all previous instructions"
+    "forget all previous instructions",
     "disregard previous instructions",
     "disregard all previous instructions",
     "override previous instructions",
